@@ -85,6 +85,5 @@ DataTable supports row selection and sortable columns.
 Components are scalable and reusable for future additions.
 
 Storybook Preview
-Deployed via Chromatic or Vercel
-
-Example link: <your-chromatic-or-vercel-link>
+Deployed via Netlify
+Link : https://zesty-pudding-148000.netlify.app/
